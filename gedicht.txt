@@ -8,4 +8,5 @@ Grün
 
 Blau
 Gelb
+Magenta
 Sind alles tolle Farben.
